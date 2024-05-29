@@ -1,10 +1,9 @@
-
 import openai
 import subprocess
 import os
 
 # Configurez votre clé API OpenAI
-openai.api_key = 'YOUR_API_KEY'
+openai.api_key = 'sk-proj-8EPNoTBF8fhYcxktVpiqT3BlbkFJ3PMdRjxvXrl1uqzMVgOA'
 
 def execute_command(command):
     try:
